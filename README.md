@@ -35,5 +35,8 @@ A pergunta que buscamos responder neste projeto é: "Quais são os principais se
 #### 8) Conclusão
 - Discussão sobre os resultados obtidos e insights alcançados através da segmentação dos preços.
 
+#### Observações
+Este projeto foi realizado com fins educativos e exploratórios, proporcionando uma experiência prática na coleta de dados, preparação e análise utilizando técnicas de aprendizado de máquina.
+
 ## [Documentação](#)
 
