@@ -38,5 +38,5 @@ A pergunta que buscamos responder neste projeto é: "Quais são os principais se
 #### Observações
 Este projeto foi realizado com fins educativos e exploratórios, proporcionando uma experiência prática na coleta de dados, preparação e análise utilizando técnicas de aprendizado de máquina.
 
-## [Documentação](#)
+## [Documentação](https://github.com/GislaineMartins/Projeto_Netshoes/wiki/Segmenta%C3%A7%C3%A3o-de-Produtos-da-Netshoes:-An%C3%A1lise-de-Clusters-para-Diferencia%C3%A7%C3%A3o-de-Faixas-de-Pre%C3%A7o)
 
