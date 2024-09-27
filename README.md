@@ -2,6 +2,8 @@
 
 ## Segmentação de Produtos da Netshoes: Análise de Clusters para Diferenciação de Faixas de Preço 
 
+### Palavras-chave: Clustering, Segmentação de Preços, Netshoes, Web Scraping, K-means, Ciência de Dados, Análise Exploratória, Machine Learning, E-commerce, Python.
+
 ### Introdução
 Este projeto foi desenvolvido com o objetivo de segmentar os preços dos produtos disponíveis na página da Netshoes. Utilizando técnicas de web scraping, os dados foram extraídos diretamente do site, proporcionando uma base de dados realista para a análise. A ideia principal foi aplicar algoritmos de clustering para identificar diferentes grupos de produtos com base em suas faixas de preços. O trabalho foi realizado para fins de aprendizado e aprimoramento das habilidades em ciência de dados e técnicas de mineração de dados.
 
