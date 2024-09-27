@@ -21,8 +21,17 @@ A pergunta que buscamos responder neste projeto é: "Quais são os principais se
 #### 4) Preparação para Clustering:
   - Normalização e padronização das variáveis para garantir que todos os atributos contribuam igualmente no algoritmo de clustering
 
-  
-#### 7) Conclusão
+#### 5) Aplicação do Algoritmo de Clustering:
+  - Utilização do algoritmo K-means para segmentar os produtos em clusters baseados em seus preços.
+
+#### 6) Análise e Interpretação dos Clusters:
+  - Interpretação dos clusters gerados, identificando características comuns entre os grupos de produtos.
+
+#### 7) Segmentação dos Produtos: 
+  - Classificação dos produtos em diferentes segmentos de preços, facilitando a identificação de faixas de valores.
+
+#### 8) Conclusão
+- Discussão sobre os resultados obtidos e insights alcançados através da segmentação dos preços.
 
 ## [Documentação](#)
 
